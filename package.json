@@ -1,0 +1,15 @@
+{
+  "name": "paolo_first_try_at_akash",
+  "version": "1.0.0",
+  "description": "Simple Node.js on Docker and uploaded in Akash",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Paolo A Mariano <juanpaolo.mariano28@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
